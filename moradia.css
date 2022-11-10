@@ -1,0 +1,242 @@
+body {
+  margin: 0;
+  width: 80%;
+  background-color: rgba(19, 30, 26, 1);
+  font-family: "Domine";
+  color: #ffffff;
+}
+.cabeçalho {
+  position: fixed;
+  z-index: 1;
+}
+li {
+  color: white;
+  padding: 0px 0px 0px 70px;
+  bottom: 15px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 32px;
+  margin: 10px;
+  z-index: index 1;
+}
+.imglogin {
+  position: fixed;
+  width: 45px;
+  height: 43px;
+  left: 1150px;
+  top: 8px;
+  cursor: pointer;
+  display: inline-block;
+}
+.barramenu {
+  width: 100%;
+  height: auto;
+  padding-left: px;
+  background: #4d6722;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  position: fixed;
+  z-index: 1;
+}
+.texto1 {
+  font-size: 100px;
+  margin: auto;
+  text-align: center;
+  color: #ffffff;
+  padding: 100px;
+  margin-left: 300px;
+}
+#índice {
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+  padding: 50px;
+  margin-left: 300px;
+}
+.índicel {
+  font-size: 26px;
+  margin-top: -50px;
+  color: #ffffff;
+  margin-left: 300px;
+}
+.gp12 {
+  width: 200px;
+  height: 150px;
+}
+
+.caract {
+  width: 500px;
+  height: 400px;
+  left: 20px;
+}
+.tex2 {
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+  padding: 50px;
+  margin-left: 300px;
+}
+a {
+  color: rgba(19, 30, 26, 1);
+}
+.importancia {
+  padding: 50px;
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+  padding: 50px;
+  margin-left: 300px;
+}
+.títulot2 {
+  padding: 50px;
+  font-size: 36px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+  padding: 50px;
+  margin-left: 300px;
+}
+iframe {
+  align-items: center;
+}
+.educa {
+  width: 1107px;
+  height: 645px;
+  margin-left: 110px;
+  margin-bottom: 40px;
+}
+
+.fotoescola {
+  width: 100%;
+  height: 122px;
+  left: 1980px;
+  top: 233px;
+}
+
+.boxfundo {
+  position: absolute;
+  width: 1349px;
+  height: 520px;
+  top: 2900px;
+  background: #4d6722;
+  border-radius: 157px 157px 0px 0px;
+}
+.perfil {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 203.12px;
+  height: 198.85px;
+  left: 290px;
+  top: 3120px;
+}
+.rodapé {
+  position: absolute;
+  width: 398px;
+  height: 27px;
+  left: 195px;
+  top: 2950px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #ffffff;
+}
+.rodapé2 {
+  position: absolute;
+  width: 398px;
+  height: 26px;
+  left: 795px;
+  top: 2950px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+}
+.square1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 108px;
+  height: 114px;
+  left: -113px;
+  top: 215px;
+
+  border: 2px solid #ffffff;
+  border-radius: 13px;
+}
+.iconzap {
+  position: absolute;
+  width: 83px;
+  height: 82px;
+  left: -100px;
+  top: 225px;
+}
+
+.ajudaw {
+  position: absolute;
+  width: 217px;
+  height: 109px;
+  left: -110px;
+  top: 315px;
+}
+
+.square2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 108px;
+  height: 114px;
+  left: 292px;
+  top: 215px;
+
+  border: 2px solid #ffffff;
+  border-radius: 13px;
+}
+.iconmao {
+  position: absolute;
+  width: 90px;
+  height: 100px;
+  left: 300px;
+  top: 225px;
+}
+.ajudam {
+  position: absolute;
+  width: 217px;
+  height: 109px;
+
+  left: 300px;
+  top: 315px;
+}
+
+.square3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 108px;
+  height: 114px;
+  left: 97px;
+  top: 215px;
+
+  border: 2px solid #ffffff;
+  border-radius: 13px;
+}
+
+.iconinsta {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  left: 110px;
+  top: 225px;
+}
+
+.ajudai {
+  position: absolute;
+  width: 217px;
+  height: 109px;
+  left: 110px;
+  top: 315px;
+}
